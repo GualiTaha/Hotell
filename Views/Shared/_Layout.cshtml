@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Hotel Esisa</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/css2/style.css" rel="stylesheet" />
+    <link href="~/Content/css2/slick.css" rel="stylesheet" />
+    <link href="~/Content/css2/responsive.css" rel="stylesheet" />
+    <link href="~/Content/css2/owl.carousel.min.css" rel="stylesheet" />
+    <link href="~/Content/css2/normalize.css" rel="stylesheet" />
+    <link href="~/Content/css2/nice-select.css" rel="stylesheet" />
+    <link href="~/Content/css2/meanmenu.css" rel="stylesheet" />
+    <link href="~/Content/css2/jquery.mCustomScrollbar.min.css" rel="stylesheet" />
+    <link href="~/Content/css2/jquery-ui.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/css2/animate.min.css" rel="stylesheet" />
+</head>
+<body style="padding-top: 50px; padding-bottom: 20px; background-color:darkcyan;">
+    <div class="navbar navbar-inverse navbar-fixed-top" style="background-color: azure">
+
+        @Html.ActionLink("EILCO PLAZA HOTEL", "Index", "Home", new { area = "" }, new { @class = "navbar-brand", Style = "color:#008080;" })
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div>
+            <div class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav navbar-left">
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @Html.ActionLink("Découvrir nos chambres", "Index", "Chambre", new { area = "" }, new { @class = "navbar-brand", Style = "color:#008080;" })
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+
+                        @Html.ActionLink("Connexion", "Login", "User", new { area = "" }, new { @class = "navbar-brand", Style = "color:#008080;" })
+                    }
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        @Html.Label("", "Bonjour " + User.Identity.Name, new { @class = "navbar-brand", Style = "color:#008080;" })
+                        @Html.ActionLink("Déconnexion", "Logout", "User", new { area = "" }, new { @class = "navbar-brand", Style = "color:#008080;" })
+                    }
+
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container" style="margin-top:20px;">
+        @RenderBody()
+        <hr />
+        <footer>
+            <center> <p>&copy; @DateTime.Now.Year - Hotel Eilco Plaza</p></center>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

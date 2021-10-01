@@ -1,0 +1,74 @@
+﻿@model HotelGestion.Models.Chambre
+
+<link href="~/Content/css/Reservation.css" rel="stylesheet" />
+
+@using (Html.BeginForm("Create", "Reservation", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div id="booking" class="section">
+        <div class="section" style="padding-top:10%">
+            <div class="container">
+                <div class="row">
+                    <div class="booking-form">
+                        <div class="form-header">
+                            <h1>Réserver Votre Chambre </h1>>
+                        </div>
+                        <form>
+                            &nbsp;&nbsp;&nbsp;&nbsp;<label style="color:white">Numéro de la chambre </label>
+                            <div class="form-group"> <input class="form-control" type="text" placeholder=" @Html.DisplayFor(model => model.Numero)" readonly>  </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;<label style="color:white">Chambre</label>
+                                    <div class="form-group"> <input class="form-control" type="text" placeholder="@Html.DisplayFor(model => model.ChambreType)" readonly>  </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <center><label style="color:white">Options</label></center>
+                                    <div class="form-group"> <input class="form-control" type="text" placeholder="@Html.DisplayFor(model => model.Options)" readonly>  </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-8 mx-auto">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-md-6">
+                                                    <div class="form-label-group">
+                                                        <center><label style="color:white">Nombre de jours</label></center>
+                                                        <input type="text" id="jours" name="jours" placeholder="nombre de jour" class="form-control" autofocus />
+
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6">
+                                                    <div class="form-group">
+                                                        <center><label style="color:white">Date arrivée </label></center>
+                                                        <input type="date" name="dateP" class="form-control" />
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            
+                                         
+                                            <center>
+                                                &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                                <input type="submit"
+                                                       value="reserver"
+                                                       class="submit-btn" />
+                                            </center>
+                                              
+                                               
+                                             
+                                            </div>
+                                        
+
+                                </div>
+                            </div>
+                            }
+                        </form>
+                    
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

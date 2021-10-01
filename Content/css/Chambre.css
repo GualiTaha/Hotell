@@ -1,0 +1,73 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+body {
+    background-color: #f7b944
+}
+
+.container {
+   
+}
+
+.rating {
+    position: relative;
+    display: flex;
+    width: 3.1rem;
+    height: 3.1rem;
+    margin-top: -1.75rem;
+    margin-left: 0.75rem;
+    justify-content: center;
+    align-items: center;
+    border: .25rem solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #f7b944;
+    margin-top: 15px;
+}
+
+.image {
+    max-width: 100%
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    width:max-content;
+    word-wrap: break-word;
+    background-color: #00ffff;
+    background-clip: border-box;
+    border: none;
+    border-radius: .25rem
+}
+
+.card-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size:medium;
+    color: #653399
+}
+
+.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.marker {
+    color: red
+}
+
+.star-rating {
+    color: #f7b944
+}
+.align p {
+    /* other styles goes here... */
+    display: inline-block;
+    vertical-align: bottom;
+}

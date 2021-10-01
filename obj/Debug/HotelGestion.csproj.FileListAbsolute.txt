@@ -1,0 +1,231 @@
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\HotelGestion.dll.config
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\HotelGestion.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\HotelGestion.pdb
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\csc.exe
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\csc.exe.config
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\csc.rsp
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\csi.exe
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\csi.exe.config
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\csi.rsp
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.AppContext.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Collections.Immutable.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Console.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.IO.Compression.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.IO.FileSystem.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Net.Http.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Net.Sockets.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.ValueTuple.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Xml.XPath.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\vbc.exe
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\vbc.exe.config
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\vbc.rsp
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\VBCSCompiler.exe
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\roslyn\VBCSCompiler.exe.config
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Antlr3.Runtime.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.Web.Infrastructure.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Newtonsoft.Json.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Helpers.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Mvc.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Optimization.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Razor.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.WebPages.Deployment.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.WebPages.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.WebPages.Razor.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\WebGrease.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Helpers.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Mvc.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Optimization.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.Razor.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.WebPages.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.WebPages.Deployment.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\System.Web.WebPages.Razor.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Newtonsoft.Json.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Antlr3.Runtime.pdb
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.Helpers.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.Mvc.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.Optimization.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.Razor.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.WebPages.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.csproj.AssemblyReference.cache
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.csproj.CoreCompileInputs.cache
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.csproj.CopyComplete
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.pdb
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\BouncyCastle.Crypto.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\EntityFramework.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\EntityFramework.SqlServer.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\itextsharp.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\EntityFramework.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\EntityFramework.SqlServer.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\itextsharp.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\EntityFramework.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.csproj.GenerateResource.cache
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema1.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema2.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema3.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema4.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema5.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema6.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema7.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema8.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema9.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema10.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema11.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema12.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema13.resources
+D:\Eil Cours-TD-TP\TP\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema14.resources
+D:\HotelGestion\bin\HotelGestion.dll.config
+D:\HotelGestion\bin\HotelGestion.dll
+D:\HotelGestion\bin\HotelGestion.pdb
+D:\HotelGestion\bin\roslyn\csc.exe
+D:\HotelGestion\bin\roslyn\csc.exe.config
+D:\HotelGestion\bin\roslyn\csc.rsp
+D:\HotelGestion\bin\roslyn\csi.exe
+D:\HotelGestion\bin\roslyn\csi.exe.config
+D:\HotelGestion\bin\roslyn\csi.rsp
+D:\HotelGestion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HotelGestion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HotelGestion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HotelGestion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HotelGestion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HotelGestion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HotelGestion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HotelGestion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HotelGestion\bin\roslyn\System.AppContext.dll
+D:\HotelGestion\bin\roslyn\System.Collections.Immutable.dll
+D:\HotelGestion\bin\roslyn\System.Console.dll
+D:\HotelGestion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HotelGestion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HotelGestion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HotelGestion\bin\roslyn\System.Globalization.Calendars.dll
+D:\HotelGestion\bin\roslyn\System.IO.Compression.dll
+D:\HotelGestion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HotelGestion\bin\roslyn\System.IO.FileSystem.dll
+D:\HotelGestion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HotelGestion\bin\roslyn\System.Net.Http.dll
+D:\HotelGestion\bin\roslyn\System.Net.Sockets.dll
+D:\HotelGestion\bin\roslyn\System.Reflection.Metadata.dll
+D:\HotelGestion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HotelGestion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HotelGestion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HotelGestion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HotelGestion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HotelGestion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HotelGestion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HotelGestion\bin\roslyn\System.ValueTuple.dll
+D:\HotelGestion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HotelGestion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HotelGestion\bin\roslyn\System.Xml.XPath.dll
+D:\HotelGestion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HotelGestion\bin\roslyn\vbc.exe
+D:\HotelGestion\bin\roslyn\vbc.exe.config
+D:\HotelGestion\bin\roslyn\vbc.rsp
+D:\HotelGestion\bin\roslyn\VBCSCompiler.exe
+D:\HotelGestion\bin\roslyn\VBCSCompiler.exe.config
+D:\HotelGestion\bin\Antlr3.Runtime.dll
+D:\HotelGestion\bin\BouncyCastle.Crypto.dll
+D:\HotelGestion\bin\EntityFramework.dll
+D:\HotelGestion\bin\EntityFramework.SqlServer.dll
+D:\HotelGestion\bin\itextsharp.dll
+D:\HotelGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\HotelGestion\bin\Microsoft.Web.Infrastructure.dll
+D:\HotelGestion\bin\Newtonsoft.Json.dll
+D:\HotelGestion\bin\System.Web.Helpers.dll
+D:\HotelGestion\bin\System.Web.Mvc.dll
+D:\HotelGestion\bin\System.Web.Optimization.dll
+D:\HotelGestion\bin\System.Web.Razor.dll
+D:\HotelGestion\bin\System.Web.WebPages.Deployment.dll
+D:\HotelGestion\bin\System.Web.WebPages.dll
+D:\HotelGestion\bin\System.Web.WebPages.Razor.dll
+D:\HotelGestion\bin\WebGrease.dll
+D:\HotelGestion\bin\EntityFramework.xml
+D:\HotelGestion\bin\EntityFramework.SqlServer.xml
+D:\HotelGestion\bin\itextsharp.xml
+D:\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\HotelGestion\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\HotelGestion\bin\System.Web.Helpers.xml
+D:\HotelGestion\bin\System.Web.Mvc.xml
+D:\HotelGestion\bin\System.Web.Optimization.xml
+D:\HotelGestion\bin\System.Web.Razor.xml
+D:\HotelGestion\bin\System.Web.WebPages.xml
+D:\HotelGestion\bin\System.Web.WebPages.Deployment.xml
+D:\HotelGestion\bin\System.Web.WebPages.Razor.xml
+D:\HotelGestion\bin\Newtonsoft.Json.xml
+D:\HotelGestion\bin\Antlr3.Runtime.pdb
+D:\HotelGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HotelGestion\bin\fr\EntityFramework.resources.dll
+D:\HotelGestion\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\HotelGestion\bin\fr\System.Web.Helpers.resources.dll
+D:\HotelGestion\bin\fr\System.Web.Mvc.resources.dll
+D:\HotelGestion\bin\fr\System.Web.Optimization.resources.dll
+D:\HotelGestion\bin\fr\System.Web.Razor.resources.dll
+D:\HotelGestion\bin\fr\System.Web.WebPages.resources.dll
+D:\HotelGestion\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\HotelGestion\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\HotelGestion\obj\Debug\HotelGestion.csprojAssemblyReference.cache
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema1.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema2.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema3.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema4.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema5.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema6.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema7.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema8.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema9.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema10.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema11.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema12.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema13.resources
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema14.resources
+D:\HotelGestion\obj\Debug\HotelGestion.csproj.GenerateResource.cache
+D:\HotelGestion\obj\Debug\HotelGestion.csproj.CoreCompileInputs.cache
+D:\HotelGestion\obj\Debug\HotelGestion.csproj.CopyComplete
+D:\HotelGestion\obj\Debug\HotelGestion.dll
+D:\HotelGestion\obj\Debug\HotelGestion.pdb
+D:\HotelGestion\obj\Debug\HotelGestion.Migrations.UniDBSchema15.resources

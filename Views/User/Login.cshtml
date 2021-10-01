@@ -1,0 +1,48 @@
+﻿@model HotelGestion.Models.User
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<link href="~/Content/css/Login.css" rel="stylesheet" />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row" style="width: 120%; right: 190px; position: relative;  ">
+        <div class="col-sm-4 text-center abc" style="height:352px">
+            <!-- Default form login -->
+            <form action="#!" >
+                <p class="h4 mb-4 text-left">Connectez vous pour continuer</p>
+                <p class="text-left">Veuillez vous connectez pour profiter des services de notre Hotel</p> <!-- Email -->
+                <label for="mail" class="in">Identifiant:</label>
+                @Html.EditorFor(model => model.Login, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Login, "", new { @class = "text-danger" })
+                <!-- Password --> <center><label for="pass" class="in">Clé:</label></center>
+                @Html.EditorFor(model => model.Pwd, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Pwd, "", new { @class = "text-danger" })
+                <div class="d-flex justify-content-left">
+                    <div>
+                        <!-- Remember me -->
+                        <div class="custom-control custom-checkbox text-left"> <input type="checkbox" class="custom-control-input"> <label class="custom-control-label" for="defaultLoginFormRemember">Se Rappeler de moi</label> </div>
+                    </div>
+                </div> <!-- Sign in button --> <button class="btn btn-info btn-block " type="submit" value="Login" style="background-image: url(https://i.imgur.com/6YuRxJA.png)">Connexion</button> 
+                
+            </form>
+        </div>
+        <div class="col-sm-8 xyz text-center" style="background-image: url(https://i.imgur.com/6YuRxJA.png); height:352px;">
+            <br />
+            <br />
+            <br />
+            <i class="fa fa-user-circle fa-5x" aria-hidden="true"></i>
+            <h2 class="account-text">Créer Votre Compte</h2>
+            <h4 class="account-description">Créer votre compte pour pouvoir bénéficier de nos offre, Eilco Plaza meileur choix pour vous!</h4>
+            
+            <a href="/Client/Create">
+                <button type="button" class="btn btn-info btn-block btn-block sign">Inscription</button>
+            </a>
+
+        </div>
+    </div>
+}
+
